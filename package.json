@@ -1,0 +1,25 @@
+{
+  "name": "build-a-prime-number-checker-module",
+  "version": "1.0.0",
+  "description": "prime number checker",
+  "keywords": [
+    "prime",
+    "number",
+    "check"
+  ],
+  "homepage": "https://github.com/dorarockpang/build-a-prime-number-checker-module#readme",
+  "bugs": {
+    "url": "https://github.com/dorarockpang/build-a-prime-number-checker-module/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorarockpang/build-a-prime-number-checker-module.git"
+  },
+  "license": "ISC",
+  "author": "RP",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
